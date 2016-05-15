@@ -1,0 +1,5 @@
+/localdisk/myuser/Images Images/
+/localdisk/myuser/Video Video/
+/localdisk/myuser/Documents/ other/Documents_myuser
+/localdisk/otheruser/Documents other/Document_otheruser
+
