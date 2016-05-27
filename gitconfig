@@ -1,0 +1,13 @@
+[core]  
+        excludesfile = /home/chaen/.gitignore_global
+[user]  
+        name = Christophe Haen
+        email = christophe.haen@cern.ch
+[merge]
+    tool = myMeld
+[mergetool "myMeld"]
+    cmd = /home/chaen/scripts/myGitMerge $BASE $LOCAL $REMOTE $MERGED
+
+[alias]
+    lola = log --graph --decorate=full\n --pretty=oneline --abbrev-commit --all --color
+~                                                                                           
